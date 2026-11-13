@@ -1,4 +1,4 @@
-# RL Coach Companion: downloads
+# "Instinct" - Live Rocket League Rank and Stat Tracking: downloads
 
 Live Rocket League coaching for Windows. It reads the game's official Stats API (no injection, no memory reading), shows short in-game tips, and builds post-match reviews from your replays.
 
